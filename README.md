@@ -6,6 +6,6 @@ import Developer from '122vi';
 
 class Bio extends Developer {
   name     = 'Vitória Mariano';
-  title    = 'Design UX UI';
+  title    = 'Dev';
   location = 'São Paulo, Brazil';
 }
