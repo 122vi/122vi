@@ -1,149 +1,107 @@
 # 👩🏻‍💻 Vitória Mariano
 
-**`Desenvolvedora Full Stack Júnior | Python | IA Generativa | Tecnologia Educacional`**
+### `Desenvolvedora Full Stack Júnior | Python | IA Generativa | Tecnologia Educacional`
 
-Olá! Eu sou **Vitória Mariano**, tenho 23 anos e sou natural da Paraíba, mas moro em São Paulo há 8 anos.
+Olá! Eu sou **Vitória Mariano**, profissional de Tecnologia da Informação, apaixonada por tecnologia, desenvolvimento de software e inovação.
 
-Sou profissional de **Tecnologia da Informação**, formada em **Gestão da Tecnologia da Informação**, técnica em **Desenvolvimento de Sistemas** e atualmente curso **MBA em Gestão de Projetos pela USP/ESALQ**.
+🎓 **Gestão da Tecnologia da Informação**  
+💻 **Técnica em Desenvolvimento de Sistemas**  
+🎓 **MBA em Gestão de Projetos — USP/ESALQ**
 
-Sou apaixonada por tecnologia e venho direcionando minha carreira para o **desenvolvimento de software**, com foco em **automação de processos, desenvolvimento de aplicações, integração de APIs e Inteligência Artificial Generativa**.
+Atualmente, estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **Full Stack, Python, automação de processos e Inteligência Artificial Generativa**.
 
-Atualmente, também atuo no segmento de **Tecnologia Educacional**, unindo tecnologia, educação e inovação para desenvolver soluções que tornem processos mais eficientes.
-
-Tenho experiência com desenvolvimento utilizando **Python, TypeScript, JavaScript, React, HTML, CSS e SQL**, além do uso de ferramentas de **IA Generativa** no desenvolvimento de aplicações.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
- align="left" 
- alt="HTML5" 
- title="HTML5"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="CSS3" 
- title="CSS3"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="TypeScript" 
- title="TypeScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="React" 
- title="React"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Next.js" 
- title="Next.js"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Tailwind CSS" 
- title="Tailwind CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Python" 
- title="Python"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Git" 
- title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+Também atuo com **Tecnologia Educacional**, desenvolvendo e apoiando soluções que conectam tecnologia e educação para tornar processos mais eficientes.
 
 ---
 
-### 🧠 Atualmente estudando e desenvolvendo
+## 🚀 Tecnologias
 
-* 🐍 Python
-* ⚛️ React e TypeScript
-* 🤖 Inteligência Artificial Generativa
-* 🔗 Integração de APIs de IA
-* 🗄️ Bancos de dados e SQL
-* ☁️ Cloud Computing
-* 🚀 Desenvolvimento Full Stack
-* 🎓 Tecnologia aplicada à Educação
+### 💻 Desenvolvimento
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
+
+### 🗄️ Banco de Dados e Ferramentas
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+
+### 🤖 Inteligência Artificial
+
+![AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+- Integração de APIs de Inteligência Artificial
+- IA Generativa aplicada ao desenvolvimento
+- Automação de processos
+- Desenvolvimento de aplicações com IA
+- Engenharia de prompts
 
 ---
 
-### 📌 Projetos
+## 📚 Atualmente estudando
 
-Aqui você encontrará projetos voltados para **desenvolvimento web, automação, Inteligência Artificial e Tecnologia Educacional**.
-
-Estou constantemente desenvolvendo novos projetos para aprimorar minhas habilidades técnicas e transformar ideias em soluções reais.
+- 🐍 Python
+- ⚛️ React e TypeScript
+- 🤖 Inteligência Artificial Generativa
+- 🔗 APIs e integrações
+- 🗄️ SQL e bancos de dados
+- ☁️ Cloud Computing
+- 🚀 Desenvolvimento Full Stack
+- 🎓 Tecnologia Educacional
 
 ---
 
-### 📫 Onde me encontrar
+## 💡 Sobre meus projetos
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/vitória-mariano-3162a91b7" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            width="30px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
+Aqui você encontrará projetos relacionados a:
 
-```
-<a href="https://github.com/122vi" target="_blank">
-    <img 
-        alt="GitHub" 
-        title="GitHub" 
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
-</a>
-```
+- Desenvolvimento Web
+- Full Stack
+- Python
+- Inteligência Artificial
+- Automação de processos
+- APIs
+- Tecnologia Educacional
 
-</p>
+Meu objetivo é transformar ideias em **soluções reais**, utilizando tecnologia para resolver problemas e otimizar processos.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=122vi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=122vi&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Mariano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-122vi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/122vi)
+
+---
+
+<div align="center">
+
+### 💻 `Transformando ideias em soluções através da tecnologia.`
+
+</div>
