@@ -8,7 +8,7 @@ Olá! Eu sou **Vitória Mariano**, profissional de Tecnologia da Informação, a
 💻 **Técnica em Desenvolvimento de Sistemas**  
 🎓 **MBA em Gestão de Projetos — USP/ESALQ**
 
-Atualmente, estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **Full Stack, Python, automação de processos e Inteligência Artificial Generativa**.
+Atualmente, estou direcionando minha carreira para o **desenvolvimento de software**, com foco em **Full Stack, automação de processos e Inteligência Artificial Generativa**.
 
 Também atuo com **Tecnologia Educacional**, desenvolvendo e apoiando soluções que conectam tecnologia e educação para tornar processos mais eficientes.
 
